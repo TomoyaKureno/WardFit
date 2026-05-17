@@ -1,2 +1,20 @@
 # WardFit
-WardFit is an app that lets you digitize your wardrobe and gives recommendations for outfit pairings, such as tops and bottoms, based on color harmony.
+An application that helps users make clothing purchase decisions through color matching between the item they want to buy and the clothes in their wardrobe, so that users can determine whether the new item fits their existing outfit combinations.
+
+## 🧠 Background
+Users often struggle to decide whether a clothing item is worth buying because they are unsure if its color will match the clothes they already have in their wardrobe. Existing shopping experiences usually focus on product appearance rather than how well the item fits with the user’s current outfits. WardFit helps users make more confident purchase decisions by matching the color of the item they want to buy with suitable clothing pieces in their wardrobe.
+
+## ✨ Features / Key Features
+- Digitize wardrobe items
+- Categorize clothing by type, such as tops and bottoms
+- Recommend outfit pairings
+- Suggest combinations based on color harmony
+- Simple and user-friendly interface
+
+## 🛠 Tech Stack
+- SwiftUI
+- SwiftData
+- AVFoundation
+- CoreGraphics
+
+## 🚀 Installation
