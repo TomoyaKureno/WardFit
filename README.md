@@ -26,7 +26,7 @@ Recommend outfit combinations based on opposite clothing types (e.g., tops and b
 - CoreGraphics
 
 ## 🚀 Installation
-```bash
+<!-- ```bash
 git clone https://github.com/username/wardfit.git
 cd wardfit
-open WardFit.xcodeproj
+open WardFit.xcodeproj -->
