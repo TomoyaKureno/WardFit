@@ -1,3 +1,5 @@
+![WardFit logo](/WardFit/Resources/Assets.xcassets/AppIcon.appiconset/imageDefault.png)
+
 # WardFit
 
 WardFit is an application that helps users make smarter clothing purchase decisions by analyzing color compatibility between new items and the clothes already in their wardrobe. The app recommends outfit combinations based on color harmony, allowing users to determine whether a new item fits their existing style before buying it.
@@ -30,3 +32,11 @@ Recommend outfit combinations based on opposite clothing types (e.g., tops and b
 git clone https://github.com/username/wardfit.git
 cd wardfit
 open WardFit.xcodeproj -->
+
+## 📷 Screenshots
+[Splash screen](/WardFit/Resources/Screenshots/splashScreen.png)
+[Main screen](/WardFit/Resources/Screenshots/mainScreen.png)
+[Scan item screen](/WardFit/Resources/Screenshots/scanItem.png)
+[Add item screen](/WardFit/Resources/Screenshots/addItem.png)
+[Detail screen 1](/WardFit/Resources/Screenshots/detailScreen1.png)
+[Detail screen 2](/WardFit/Resources/Screenshots/detailScreen2.png)
