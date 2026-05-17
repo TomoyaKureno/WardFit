@@ -6,12 +6,15 @@ Users often struggle to decide whether a clothing item is worth buying because t
 
 ## ✨ Features / Key Features
 - Digital Wardrobe
+
 Store and organize owned clothing items and categorizing them based on clothing type.
 
 - Clothes Scanner
+
 Scan a clothing item using a camera or uploaded image, then extract its color to find matching clothes from the user’s wardrobe.
 
 - Color Harmony-Based Recommendation
+
 Recommend matching wardrobe items based on opposite clothing types and color harmony.
 
 ## 🛠 Tech Stack
