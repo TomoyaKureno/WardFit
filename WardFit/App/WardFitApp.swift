@@ -6,12 +6,14 @@
 //
 
 import SwiftUI
+import SwiftData
 
 @main
 struct WardFitApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashGateView()
         }
+        .modelContainer(for: ClothingItem.self)
     }
 }
