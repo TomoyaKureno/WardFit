@@ -1,6 +1,6 @@
 # WardFit
 
-WardFit is an application that helps users make smarter clothing purchase decisions by analyzing color compatibility between new items and the clothes already موجود in their wardrobe. The app recommends outfit combinations based on color harmony, allowing users to determine whether a new item fits their existing style before buying it.
+WardFit is an application that helps users make smarter clothing purchase decisions by analyzing color compatibility between new items and the clothes already in their wardrobe. The app recommends outfit combinations based on color harmony, allowing users to determine whether a new item fits their existing style before buying it.
 
 ## 🧠 Background
 
