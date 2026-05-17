@@ -1,21 +1,23 @@
 # WardFit
-An application that helps users make clothing purchase decisions through color matching between the item they want to buy and the clothes in their wardrobe, so that users can determine whether the new item fits their existing outfit combinations.
+
+WardFit is an application that helps users make smarter clothing purchase decisions by analyzing color compatibility between new items and the clothes already موجود in their wardrobe. The app recommends outfit combinations based on color harmony, allowing users to determine whether a new item fits their existing style before buying it.
 
 ## 🧠 Background
-Users often struggle to decide whether a clothing item is worth buying because they are unsure if its color will match the clothes they already have in their wardrobe. Existing shopping experiences usually focus on product appearance rather than how well the item fits with the user’s current outfits. WardFit helps users make more confident purchase decisions by matching the color of the item they want to buy with suitable clothing pieces in their wardrobe.
+
+People often struggle to decide whether a clothing item is worth purchasing because they are unsure if its color will match the clothes they already own. Most shopping experiences focus only on the appearance of the product itself, without considering how well it integrates with the user’s existing wardrobe.
+
+WardFit addresses this problem by helping users digitally organize their wardrobe and analyze the compatibility of new clothing items. By using color harmony principles, the app provides outfit recommendations that make purchasing decisions more practical and confident.
 
 ## ✨ Features / Key Features
-- Digital Wardrobe
 
-Store and organize owned clothing items and categorizing them based on clothing type.
+### 👕 Digital Wardrobe
+Store and organize clothing items digitally by categorizing them based on clothing type.
 
-- Clothes Scanner
+### 📷 Clothes Scanner
+Scan clothing items using the device camera or uploaded images, then extract dominant colors to find matching items from the user’s wardrobe.
 
-Scan a clothing item using a camera or uploaded image, then extract its color to find matching clothes from the user’s wardrobe.
-
-- Color Harmony-Based Recommendation
-
-Recommend matching wardrobe items based on opposite clothing types and color harmony.
+### 🎨 Color Harmony-Based Recommendation
+Recommend outfit combinations based on opposite clothing types (e.g., tops and bottoms) and color harmony principles.
 
 ## 🛠 Tech Stack
 - SwiftUI
@@ -24,3 +26,7 @@ Recommend matching wardrobe items based on opposite clothing types and color har
 - CoreGraphics
 
 ## 🚀 Installation
+```bash
+git clone https://github.com/username/wardfit.git
+cd wardfit
+open WardFit.xcodeproj
