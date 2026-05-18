@@ -36,9 +36,9 @@ open WardFit.xcodeproj -->
 ## 📷 Screenshots
 <div style="display: flex; gap: 16px; flex-wrap: wrap; justify-content: center;">
     <img src="./WardFit/Resources/Screenshots/splashScreen.png" width="240" alt="WardFit splash screen" />
-    <img src="./WardFit/Resources/Screenshots/mainScreen.png" width="240" alt="WardFit main screen" />
+    <img src="./WardFit/Resources/Screenshots/mainScreen.PNG" width="240" alt="WardFit main screen" />
     <img src="./WardFit/Resources/Screenshots/scanItem.png" width="240" alt="WardFit scan item screen" />
-    <img src="./WardFit/Resources/Screenshots/addItem.png" width="240" alt="WardFit add item screen" />
-    <img src="./WardFit/Resources/Screenshots/detailScreen1.png" width="240" alt="WardFit detail screen 1" />
-    <img src="./WardFit/Resources/Screenshots/detailScreen2.png" width="240" alt="WardFit detail screen 2" />
+    <img src="./WardFit/Resources/Screenshots/addItem.PNG" width="240" alt="WardFit add item screen" />
+    <img src="./WardFit/Resources/Screenshots/detailScreen1.PNG" width="240" alt="WardFit detail screen 1" />
+    <img src="./WardFit/Resources/Screenshots/detailScreen2.PNG" width="240" alt="WardFit detail screen 2" />
 </div>
