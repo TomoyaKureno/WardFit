@@ -1,4 +1,4 @@
-![WardFit logo](/WardFit/Resources/Assets.xcassets/AppIcon.appiconset/imageDefault.png)
+<img src="./WardFit/Resources/Assets.xcassets/AppIcon.appiconset/imageDefault.png" width="240" alt="WardFit logo" />
 
 # WardFit
 
@@ -34,9 +34,11 @@ cd wardfit
 open WardFit.xcodeproj -->
 
 ## 📷 Screenshots
-[Splash screen](/WardFit/Resources/Screenshots/splashScreen.png)
-[Main screen](/WardFit/Resources/Screenshots/mainScreen.png)
-[Scan item screen](/WardFit/Resources/Screenshots/scanItem.png)
-[Add item screen](/WardFit/Resources/Screenshots/addItem.png)
-[Detail screen 1](/WardFit/Resources/Screenshots/detailScreen1.png)
-[Detail screen 2](/WardFit/Resources/Screenshots/detailScreen2.png)
+<div style="display: flex; gap: 16px; flex-wrap: wrap; justify-content: center;">
+    <img src="./WardFit/Resources/Screenshots/splashScreen.png" width="240" alt="WardFit splash screen" />
+    <img src="./WardFit/Resources/Screenshots/mainScreen.png" width="240" alt="WardFit main screen" />
+    <img src="./WardFit/Resources/Screenshots/scanItem.png" width="240" alt="WardFit scan item screen" />
+    <img src="./WardFit/Resources/Screenshots/addItem.png" width="240" alt="WardFit add item screen" />
+    <img src="./WardFit/Resources/Screenshots/detailScreen1.png" width="240" alt="WardFit detail screen 1" />
+    <img src="./WardFit/Resources/Screenshots/detailScreen2.png" width="240" alt="WardFit detail screen 2" />
+</div>
