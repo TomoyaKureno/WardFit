@@ -2,7 +2,7 @@
 //  WFLayout.swift
 //  WardFit
 //
-//  Created by Codex on 26/04/26.
+//  Created by Fathariq Dimas on 26/04/26.
 //
 
 import SwiftUI
