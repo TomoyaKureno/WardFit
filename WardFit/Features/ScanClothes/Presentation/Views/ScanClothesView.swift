@@ -7,29 +7,6 @@
 
 import SwiftUI
 
-struct ScanClothesFlowView: View {
-    @ObservedObject var wardrobeStore: WardrobeStore
-    @ObservedObject var coordinator: ScanClothesCoordinator
-
-    var body: some View {
-        NavigationStack(path: $coordinator.path) {
-            ScanClothesView(
-                wardrobeStore: wardrobeStore,
-                viewModel: coordinator.scanViewModel,
-                onOpenCamera: {
-                    coordinator.push(.camera)
-                },
-                onFindMatch: { candidate in
-                    coordinator.showResult(for: candidate)
-                }
-            )
-            .navigationDestination(for: ScanClothesRoute.self) { route in
-                coordinator.build(route, wardrobeStore: wardrobeStore)
-            }
-        }
-    }
-}
-
 struct ScanClothesView: View {
     @ObservedObject var wardrobeStore: WardrobeStore
     @ObservedObject var viewModel: ScanClothesViewModel
@@ -132,8 +109,9 @@ struct ScanClothesView: View {
 }
 
 #Preview {
-    ScanClothesFlowView(
-        wardrobeStore: WardrobeStore(),
-        coordinator: ScanClothesCoordinator()
-    )
+    @Previewable @StateObject var wardrobeStore = WardrobeStore()
+    @Previewable @StateObject var viewModel = ScanClothesViewModel()
+
+    ScanClothesView(wardrobeStore: wardrobeStore, viewModel: viewModel, onOpenCamera: {}, onFindMatch: { _ in
+    })
 }
