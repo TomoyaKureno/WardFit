@@ -42,3 +42,6 @@ open WardFit.xcodeproj -->
     <img src="./WardFit/Resources/Screenshots/detailScreen1.PNG" width="240" alt="WardFit detail screen 1" />
     <img src="./WardFit/Resources/Screenshots/detailScreen2.PNG" width="240" alt="WardFit detail screen 2" />
 </div>
+
+## 👥 Team Members
+- Tomo
