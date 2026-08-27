@@ -27,12 +27,6 @@ Recommend outfit combinations based on opposite clothing types (e.g., tops and b
 - AVFoundation
 - CoreGraphics
 
-<!-- ## 🚀 Installation
-```bash
-git clone https://github.com/username/wardfit.git
-cd wardfit
-open WardFit.xcodeproj -->
-
 ## 📷 Screenshots
 <div style="display: flex; gap: 16px; flex-wrap: wrap; justify-content: center;">
     <img src="./WardFit/Resources/Screenshots/splashScreen.png" width="240" alt="WardFit splash screen" />
